@@ -42,7 +42,7 @@ h1, h2, p, i, address, .tm-text-white { color: white; }
     max-width: 970px;
     box-sizing: border-box;
     margin: 0 auto;
-    padding: 60px 15px;
+    padding: 10px 15px;
 }
 
 .tm-site-header { height: 470px; }
